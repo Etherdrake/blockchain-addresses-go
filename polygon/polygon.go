@@ -1,4 +1,4 @@
-package blockchain_addresses
+package polygon
 
 const (
 	DAI_POLYGON  = "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"

@@ -1,4 +1,4 @@
-package blockchain_addresses
+package arbitrum
 
 const (
 	DAI_ARB  = "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
